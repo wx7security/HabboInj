@@ -34,9 +34,7 @@ To deploy this project run > MacOS & Linux.
 
 5. navegate to your room, and select the item you want to script.
 
-6. Cancel the Sofwarw with Ctrl+C and you will see a .txt file with the packet.
-
-7. Open the Packet editor, and follow the instructions for the desired packet.
+6. Open the Packet editor, and follow the instructions for the desired packet.
 
 ```
 
